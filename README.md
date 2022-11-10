@@ -1,10 +1,11 @@
-<h1 align="center"> ![image](https://user-images.githubusercontent.com/114065962/201024601-5b3b93c4-4ada-4237-a5ca-212c0c869ae8.png)
-Use Case Diagrams ![image](https://user-images.githubusercontent.com/114065962/201024485-4c244d37-563b-4d77-8fa5-21f34f727b50.png) </h1> 
+<h1 align="center"> Use Case Diagrams  </h1> 
 <ul> <br>
  Use case (также юзкейс, сценарий использования) – это сценарий взаимодействия пользователя (или пользователей) с программным продуктом для достижения конкретной цели. 
   <ul> <br>
   <p align="center"><b>Инструкция по открытию Use Case Diagrams: </b></p>
   <ul>
+   ![image](https://user-images.githubusercontent.com/114065962/201025394-c8a2c3f5-7360-464a-bea3-0aa4c9594d67.png)
+
   <li> Выбрать ветку </li>
   <li> Выбрать диаграмму </li>
   <li> Нажать кнопку "Raw" </li>
