@@ -4,8 +4,7 @@
   <ul> <br>
   <p align="center"><b>Инструкция по открытию Use Case Diagrams: </b></p>
   <ul>
-   ![image](https://user-images.githubusercontent.com/114065962/201025394-c8a2c3f5-7360-464a-bea3-0aa4c9594d67.png)
-
+   <img src="https://cdn-icons-png.flaticon.com/512/4547/4547312.png">
   <li> Выбрать ветку </li>
   <li> Выбрать диаграмму </li>
   <li> Нажать кнопку "Raw" </li>
