@@ -1,4 +1,4 @@
-<h1 align="center"> Use Case Diagrams <img src=https://user-images.githubusercontent.com/114065962/201034087-9bb86de9-b6e1-4ceb-8254-d23edecc466b.png https://cdn-icons-png.flaticon.com/512/3749/3749914.png style="width:32px; height: 25px">  </h1> 
+<h1 align="center"> Use Case Diagrams <img src=https://user-images.githubusercontent.com/114065962/201034087-9bb86de9-b6e1-4ceb-8254-d23edecc466b.png https://cdn-icons-png.flaticon.com/512/3749/3749914.png style="width:42px; height: 35px">  </h1> 
 <ul> <br>
  Use case (также юзкейс, сценарий использования) – это сценарий взаимодействия пользователя (или пользователей) с программным продуктом для достижения конкретной цели. 
   <ul> <br>
