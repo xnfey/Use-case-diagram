@@ -1,10 +1,10 @@
-<h1 align="center"> Use Case Diagrams  </h1> 
+<h1 align="center"> Use Case Diagrams<img src="https://cdn-icons-png.flaticon.com/512/4547/4547312.png" style="width:35px; height: 25px">  </h1> 
 <ul> <br>
  Use case (также юзкейс, сценарий использования) – это сценарий взаимодействия пользователя (или пользователей) с программным продуктом для достижения конкретной цели. 
   <ul> <br>
   <p align="center"><b>Инструкция по открытию Use Case Diagrams: </b></p>
   <ul>
-   <img src="https://cdn-icons-png.flaticon.com/512/4547/4547312.png" style="width:35px; height: 25px">
+   
   <li> Выбрать ветку </li>
   <li> Выбрать диаграмму </li>
   <li> Нажать кнопку "Raw" </li>
